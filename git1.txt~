@@ -1,1 +1,7 @@
-jondhale 
+<<<<<<< Updated upstream
+x=1;
+y=4;
+=======
+x=2;
+y=3;
+>>>>>>> Stashed changes
